@@ -2,8 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Rhyan Oliveira, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em informática. <br>E recentemente meu ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia
-e desafios, busco sempre maneiras de manter fora da minha zona de conforto, seja aprendendo novas linguagens de programação,
+Me chamo Rhyan Oliveira, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em informática. <br>E recentemente meu ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e desafios, busco sempre <br >maneiras de manter fora da minha zona de conforto, seja aprendendo novas linguagens de programação,
 novos conceitos ou até mesmo participando de projetos não convencionais.
 
 <p align="left">
