@@ -61,7 +61,7 @@ Me chamo Rhyan Oliveira, tenho 21 anos e sou natural de São Paulo. Concluí o e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rhyanoliveirx&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
